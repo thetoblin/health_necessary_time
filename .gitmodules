@@ -1,0 +1,8 @@
+[submodule "health_necessary_time_code"]
+	path = health_necessary_time_code
+	url = /home/tobka/pCloudDrive/01_Understand_society/slip-box/Obsidian/main/analysis/health_necessary_time_code/
+	branch = master
+[submodule "data"]
+	path = data
+	url = /home/tobka/pCloudDrive/01_Understand_society/slip-box/Obsidian/main/analysis/data/
+	branch = master
