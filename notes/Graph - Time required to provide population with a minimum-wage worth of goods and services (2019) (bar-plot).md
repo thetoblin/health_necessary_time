@@ -21,7 +21,7 @@ Comparing 1) the number of hours required (per capita and per person in the work
 
 
 **Produced by code**
-![[analysis/health_necessary_time_code/minwage_barplot.py]]
+![[minwage_barplot.py]]
 
 
 **Image**
