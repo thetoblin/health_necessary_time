@@ -1,6 +1,5 @@
 # workhours_weekly_avg_df (variable) (hours per week)
-# (average weekly hours worked by persons engaged (employees and self-employed))
-# Root sources - PWT10.0
+# (average weekly hours worked by persons engaged (employees and self-employed)). Root sources - PWT10.0
 #github-health-necessary-time
 #code-variable #name #code #python #variable
 

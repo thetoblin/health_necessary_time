@@ -15,7 +15,7 @@ The number of hours per capita per week (assuming 52 weeks per year) required to
 **Root source(s)**
 - [[Reference - Penn World Table 10.0 (Dataset) (Groningen Growth and Development Centre, 2021)]]
 - [[Reference - Minimum Wages at Current Prices in NCU (Database) (OECD, 2021) (accessed 18 April 2022)]]
-- User assumption, given by [[weeks_per_year=52 (variable) (user assumption) (weeks)#The user-defined number of weeks per year]]
+- User assumption of the number of weeks per year, given by [[weeks_per_year=52 (variable) (user assumption) (weeks)#The user-defined number of weeks per year]]
 
 **Calculation**
 `minwage_nectime_weekly_per_capita_df = minwage_nectime_annual_per_capita_df / weeks_per_year`
