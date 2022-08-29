@@ -3,12 +3,12 @@
 
 
 **Description**
-Comparing 1) the number of hours required per working-age person (ages 15-64) to provide everyone in the population of a given country with an annual minimum-wage worth of goods and services with the country's average productivity (GDP per hour), and 2) the country's average working hours. For the year 2019.
+Comparing 1) the number of hours required per working-age person (ages 15-64) to provide every individual in the population of a given country with an annual minimum-wage worth of goods and services with the country's average productivity (GDP per hour), and 2) the country's average working hours. For the year 2019.
 
 
 **Variables used**
-- [[minwage_nectime_weekly_perworkingageperson_df (variable) (hours per week per working-age person (ages 15-64))#The number of hours per week per working-age person ages 15-64 required to provide everyone in the population of a given country with an annual minimum-wage worth of goods and services given the country's average productivity GDP per hour Root sources PWT10 0 OECD 2021 OECD 2022 user assumed number of weeks per year]]
-- [[workhours_weekly_avg_df (variable) (hours per week)#average weekly hours worked by persons engaged employees and self-employed Root sources - PWT10 0]]
+- [[minwage_nectime_weekly_perworkingageperson_df (variable) (hours per week per working-age person (ages 15-64))]]
+- [[workhours_weekly_avg_df (variable) (hours per week)]]
 
 
 **Root sources**
