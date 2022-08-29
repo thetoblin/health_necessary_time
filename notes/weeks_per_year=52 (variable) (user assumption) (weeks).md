@@ -19,7 +19,7 @@ The user-defined number of weeks per year.
 User assumption.
 
 **Files where variable is declared**
-![[minwage_settings.py]]
+![[settings.py]]
 
 **Object type**
 class 'int'
